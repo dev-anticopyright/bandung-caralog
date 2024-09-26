@@ -7,16 +7,41 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.dev), with deployment to [Netlify](https://www.netlify.com).
+# Selamat Datang di Bandung Production: Mitra Terpercaya Produksi Fashion Anda
 
-Includes [Decap CMS](https://www.decapcms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+Apakah Anda sedang mencari solusi produksi fashion yang berkualitas, tepat waktu, dan sesuai dengan visi brand Anda? 
+#### Bandung Production #### 
+adalah jawabannya. Kami hadir untuk membantu Anda menciptakan produk fashion yang tak hanya memukau, tetapi juga mampu bersaing di pasar yang semakin kompetitif. Dengan pengalaman bertahun-tahun di industri, teknologi produksi modern, dan tim ahli yang berdedikasi, kami siap menjadi mitra terbaik dalam mengembangkan brand Anda.
 
-[Log in to the Decap CMS dashboard](/admin/)
+### **Mengapa Bandung Production?**
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
+#### 1. **Kualitas Tak Tertandingi**
+Setiap produk yang kami hasilkan didesain dengan cermat dan diproduksi dengan standar kualitas tertinggi. Kami memahami bahwa kualitas adalah kunci untuk memenangkan hati konsumen Anda. Dengan bahan-bahan terbaik dan kontrol kualitas yang ketat, kami memastikan setiap detail produk memenuhi ekspektasi Anda.
 
-Or click the button below to deploy your own copy of this project to Netlify.
+#### 2. **Tim Profesional & Berpengalaman**
+Di Bandung Production, kami memiliki tim yang terdiri dari desainer, pattern makers, dan teknisi berpengalaman yang siap bekerja sama dengan Anda. Mulai dari konsep hingga produk jadi, kami hadir untuk membantu merealisasikan visi Anda. Kolaborasi yang baik adalah kunci dari produk yang sukses, dan kami bangga menjadi bagian dari perjalanan Anda.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+#### 3. **Produksi Tepat Waktu**
+Kami memahami pentingnya ketepatan waktu dalam industri fashion. Dengan proses produksi yang efisien dan terorganisir, kami berkomitmen untuk menyelesaikan setiap pesanan sesuai jadwal yang disepakati. Anda dapat tenang, kami akan selalu mengirimkan produk tepat waktu tanpa mengurangi kualitas.
+
+#### 4. **Teknologi Canggih**
+Bandung Production memanfaatkan teknologi produksi terbaru yang memungkinkan efisiensi tinggi tanpa mengorbankan kualitas. Mulai dari pemotongan kain, jahitan, hingga finishing, semuanya dikerjakan dengan presisi dan kecepatan optimal. Hasilnya? Produk fashion Anda siap bersaing di pasar dengan harga yang kompetitif.
+
+#### 5. **Layanan Konsultasi Desain**
+Tidak hanya memproduksi, kami juga siap membantu Anda menyempurnakan desain produk Anda. Tim desain kami dengan senang hati akan memberikan masukan kreatif dan strategis, membantu Anda menciptakan produk fashion yang trendi dan disukai pasar. Dengan Bandung Production, Anda tak hanya mendapatkan produk berkualitas, tetapi juga layanan konsultasi desain yang siap membantu mengoptimalkan ide-ide kreatif Anda.
+
+### **Apa yang Kami Tawarkan?**
+
+- **Produksi Pakaian Custom**: Mulai dari streetwear, casual, hingga pakaian mewah.
+- **Pembuatan Sampel**: Uji coba desain sebelum diproduksi secara massal.
+- **Konsultasi Fashion**: Bantuan untuk menciptakan produk sesuai dengan tren terkini.
+- **Proses Produksi End-to-End**: Dari pemilihan bahan, pembuatan pola, hingga finishing dan packaging.
+
+### **Siap Memulai?**
+
+Tidak ada yang lebih berharga daripada memiliki mitra produksi yang peduli dengan kesuksesan Anda. Kami memahami betapa pentingnya bagi brand Anda untuk tampil sempurna di mata konsumen. **Bandung Production siap membantu Anda mewujudkan impian tersebut**. Mulai dari ide hingga produk jadi, kami di sini untuk memberikan hasil yang melebihi ekspektasi Anda.
+
+**Ambil langkah pertama sekarang!** Hubungi kami dan biarkan kami membantu Anda menciptakan produk fashion yang akan memikat pasar.
+
+### [Hubungi Kami Sekarang!](#)
